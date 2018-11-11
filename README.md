@@ -39,13 +39,12 @@ chmod +x expect-2.sh
 *1st 60 Seconds of mining are donated for development purposes. No other donations.
 
 ### Stay Thirsy My Friends
-BTC: 38NQuDc5NLWLo7oTygn1y1ipWhLYNWHhai
+  ## *Any donations are greatly appreciated:* ##  #
+#
+#Monero
+ 43ZsP6ZooeygK9DebCf67JjQuicTk1onjR1epuPTdk27cSpoPeKGjwSRrBuUUM3xCSQyZ6ghtBVbJN2pKBXGprqCFmtfSkh
 
-LTC: MAjxfmJ1zUZd6mCxJ4YpuD6UDCV9TRExbZ
+#Aeon
+ Wmswvbsac7eZ7pZEbey9nmgoZPjtwBAwRh7Qgm1xHVwF6hcnH43r2vX3hLTKARSrvtH8g4wJtEXS9V3Axz1Y2m8P2uqXEZi51
 
-ETH: 0x17654BB8c979D88cD783C212Ec8AE19cF2565641
-
-XMR: 42si9ingS34BnhGVBamjZUSDZr8XmEENeEypeRjnZVGgXCtr5rano1UjXqrT3anyZ22j7DEE74GkbVcQFyH2nNiC3dJ1V5J
-
-BCH: qpf93ymdf267ujyuu7rqtm2t6lxewl7jns8yv8pjtm
 
